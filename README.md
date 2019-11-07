@@ -1,3 +1,3 @@
 # Demo-Merge-Conflicts
 
-By Rosemary Hofstede
+A simple demo. By Rosemary Hofstede
