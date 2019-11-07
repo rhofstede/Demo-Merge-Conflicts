@@ -1,5 +1,5 @@
 # Demo-Merge-Conflicts
 
-A simple demo. By Rosemary Hofstede
+A simple demo. By Rosemary Hofstede.
 
-Created 2019/11/06
+November 6, 2019
